@@ -6,9 +6,9 @@ Mıstık yani Mustafa, yakın arkadaşım ve aynı zamanda benimle birlikte eği
 
 Akademideki görevli Akademi_Melike ile konuşup anahtarların yerini öğrenmeye çalıştık. Akademi_Melike, her zaman olduğu gibi çok yardımcı oldu ve bize anahtarların saklandığı yerin konumunu verdi. Anahtarları aldıktan sonra, hemen zindana doğru yola çıktım.  
 
-Ancak, akademideki adamların bizi fark edebileceği konusunda endişeliydik. Bu yüzden, yolda gizlenmeye ve sessiz olmaya çalıştık. Neyse ki, zindana ulaşmayı başardık. Kapıyı açıp içeri girdiğimizde, Mıstık oradaydı, ancak çok kötü durumdaydı. Hemen onu kurtarmak için çalışmaya başladım.  
+Ancak, akademideki adamların bizi fark edebileceği konusunda endişeliydim. Bu yüzden, yolda gizlenmeye ve sessiz olmaya çalıştım. Neyse ki, zindana ulaşmayı başardım. Kapıyı açıp içeri girdiğimde, Mıstık oradaydı, ancak çok kötü durumdaydı. Hemen onu kurtarmak için çalışmaya başladım.  
 
-Nihayet, Mıstığı kurtarmayı başardık ve anahtarları orada bırakarak zindandan hızla kaçtık. Ardından, akademiden ayrılmak üzere hemen yola çıktık. Neyse ki, akademideki adamlar bizi takip etmeye devam etmediler ve başarıyla kaçmayı başardık.
+Nihayet, Mıstığı kurtarmayı başardım ve anahtarları orada bırakarak zindandan hızla kaçtık. Ardından, akademiden ayrılmak üzere hemen yola çıktık. Neyse ki, akademideki adamlar bizi takip etmeye devam etmediler ve başarıyla kaçmayı başardık.
 
 
 ### Kullanılan Assetler, Sesler ve Müzikler:

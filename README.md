@@ -11,14 +11,6 @@ Ancak, akademideki adamların bizi fark edebileceği konusunda endişeliydik. Bu
 Nihayet, Mıstığı kurtarmayı başardık ve anahtarları orada bırakarak zindandan hızla kaçtık. Ardından, akademiden ayrılmak üzere hemen yola çıktık. Neyse ki, akademideki adamlar bizi takip etmeye devam etmediler ve başarıyla kaçmayı başardık.
 
 
-
-
-
-
-
-
-
-
 ### Kullanılan Assetler, Sesler ve Müzikler:
 
 **https://www.mixamo.com/#/?page=1&type=Character**  
@@ -29,5 +21,15 @@ Nihayet, Mıstığı kurtarmayı başardık ve anahtarları orada bırakarak zin
 **https://freesound.org/people/greatsoundstube/sounds/629315/**  
 **https://freesound.org/people/audible-edge/sounds/76804/**  
 **https://pixabay.com/sound-effects/telephone-hang-up-l-close-r-distant-84603/**  
+
+## Oyun Tanıtım Videosu  
+### https://youtu.be/dYqHImbf17Y  
+
+## Takım Üyeleri:
+### Emin Kodaz
+### Alpcan Dönmez
+### Hümeyra Zeynep Kuru
+### Mustafa Emir Öziri
+### Büşra Özer
 
 

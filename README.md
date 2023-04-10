@@ -25,6 +25,9 @@ Nihayet, Mıstığı kurtarmayı başardım ve anahtarları orada bırakarak zin
 ## Oyun Tanıtım Videosu  
 ### https://youtu.be/dYqHImbf17Y  
 
+## Projenin Rar Dosyası
+### https://drive.google.com/file/d/1Dx-0Qu5FZ5doqJUBu60m3NIU4TPCHSpU/view?usp=sharing
+
 ## Takım Üyeleri:
 ### Emin Kodaz
 ### Alpcan Dönmez
